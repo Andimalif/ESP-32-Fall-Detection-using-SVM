@@ -1,4 +1,3 @@
-# ESP-32-Fall-Detection-using-SVM
 # Fall Detection System Using ESP32 and MPU9250
 
 This repository contains the code for a fall detection system that uses an ESP32 microcontroller and MPU9250 sensors. The system processes sensor data to detect falls in real time and sends alerts via Blynk.

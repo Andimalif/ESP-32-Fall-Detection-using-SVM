@@ -54,7 +54,7 @@ Contributions are welcome! Please fork the repository and use a feature branch. 
 
 ## Author
 
-- [Your Name](https://github.com/yourusername)
+- [Andi Muhammad Alif](https://github.com/Andimalif)
 
 ## Acknowledgments
 
